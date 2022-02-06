@@ -41,7 +41,7 @@ class _MatchesTabState extends State<MatchesTab> {
     
     //Google Banner Ads
     _bannerAd = BannerAd(
-      adUnitId: 'ca-app-pub-8658570767670237/6384316070',  //BannerAd.testAdUnitId   ca-app-pub-8658570767670237/3997346952
+      adUnitId: '.................................',  //BannerAd.testAdUnitId
       size: AdSize.banner,  //AdSize(width:  2000, height: 65)
       request: AdRequest(),
       listener: AdListener(

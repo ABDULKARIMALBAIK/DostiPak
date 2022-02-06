@@ -108,7 +108,7 @@ class _DiscoverTabState extends State<DiscoverTab> {
 
     //Google Ads
     _bannerAd = BannerAd(
-      adUnitId: 'ca-app-pub-8658570767670237/6384316070',  // BannerAd.testAdUnitId,    ca-app-pub-8658570767670237/3997346952
+      adUnitId: '......................',  // BannerAd.testAdUnitId,
       size: AdSize.banner,
       request: AdRequest(),
       listener: AdListener(
