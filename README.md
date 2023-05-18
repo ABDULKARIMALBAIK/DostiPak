@@ -40,87 +40,87 @@ This app is using Firebase to fetch data and display it on the screen.
 
 ### App Features
 
-*VIP Subscriptions - (In-App purchases)
-*Admob Interstials Ads
-*Multi-language support
-*Push notifications - (New like, visit and message)
-*Swipe Left/Right - (like tinder profile cards)
-*It's a Match dialog
-*Chat with text and image
-*Sign in with phone number
-*Report User Profile feature
-*Profile statistics (Total likes, visits, dislikes)
-*Share the app with friends
-*Rate app on app stores
-*Get location by GPS
-*Show Users based on geolocation distance radius in (km)
-*Update location
-*Change max distance radius in (km)
-*Change age range filter
-*Alert user to enable GPS
-*Redirect user to enable location permission in device settings
-*Redirect user to blocked account screen
-*Redirect user to update app
-*Sign out button
-*Delete Account button
-*Hide user profile
-*Show me Filter: Men, Women or Everyone
-*Passport feature - Latest update
-*Backend with Cloud Firestore
-*Firebase Free Account Support
-*Typing feature
-*Online/Offline feature
-*change authentication from phone number to email and password
-*send voice message
-*send sticker message
-*Add wallet to user
-*using in app purchase
-*Add oneSignal feature
-*Display ads by google mobile ads package
-*update image picker dialog
-*New logo icon and using flutter_native_splash package
-*change icons and make new buttons 
+- VIP Subscriptions - (In-App purchases)
+- Admob Interstials Ads
+- Multi-language support
+- Push notifications - (New like, visit and message)
+- Swipe Left/Right - (like tinder profile cards)
+- It's a Match dialog
+- Chat with text and image
+- Sign in with phone number
+- Report User Profile feature
+- Profile statistics (Total likes, visits, dislikes)
+- Share the app with friends
+- Rate app on app stores
+- Get location by GPS
+- Show Users based on geolocation distance radius in (km)
+- Update location
+- Change max distance radius in (km)
+- Change age range filter
+- Alert user to enable GPS
+- Redirect user to enable location permission in device settings
+- Redirect user to blocked account screen
+- Redirect user to update app
+- Sign out button
+- Delete Account button
+- Hide user profile
+- Show me Filter: Men, Women or Everyone
+- Passport feature - Latest update
+- Backend with Cloud Firestore
+- Firebase Free Account Support
+- Typing feature
+- Online/Offline feature
+- change authentication from phone number to email and password
+- send voice message
+- send sticker message
+- Add wallet to user
+- using in app purchase
+- Add oneSignal feature
+- Display ads by google mobile ads package
+- update image picker dialog
+- New logo icon and using flutter_native_splash package
+- change icons and make new buttons 
 
 ### App Screens
-*Splash Screen
-*Sign In Screen
-*Login with Phone Number Screen
-*Verification Code Screen (OTP)
-*Sign Up Screen
-*Home Screen
-*Profile Screen
-*Profile Likes Screen
-*Profile Visits Screen
-*Disliked Profiles Screen
-*Edit Profile Screen
-*Notifications Screen
-*Chat Screen
-*It’s Match Dialog
-*About Us Screen
-*Blocked Account Screen
-*Enable Location Screen
-*Settings Screen
-*Update App Screen
-*Delete Account Screen
-*Passport Screen
+- Splash Screen
+- Sign In Screen
+- Login with Phone Number Screen
+- Verification Code Screen (OTP)
+- Sign Up Screen
+- Home Screen
+- Profile Screen
+- Profile Likes Screen
+- Profile Visits Screen
+- Disliked Profiles Screen
+- Edit Profile Screen
+- Notifications Screen
+- Chat Screen
+- It’s Match Dialog
+- About Us Screen
+- Blocked Account Screen
+- Enable Location Screen
+- Settings Screen
+- Update App Screen
+- Delete Account Screen
+- Passport Screen
 
 ### Tabs
 
-*Discover Tab
-*Matches Tab
-*Conversations Tab
-*Profile Tab
+- Discover Tab
+- Matches Tab
+- Conversations Tab
+- Profile Tab
 
 ### Icons
 
-*Beautiful outline SVG icons used in project
+- Beautiful outline SVG icons used in project
 
 ### 02) Project requirements -
 
-*Flutter SDK Version: 2.0.6 or later - Null Safety Support
-*Dart Version: 2.12.0 or later - Null Safety Support
-*Android target SDK version: 30 or later
-*Recommended Editors: Visual Studio Code/ Android Studio/ or Xcode for iOS
+- Flutter SDK Version: 2.0.6 or later - Null Safety Support
+- Dart Version: 2.12.0 or later - Null Safety Support
+- Android target SDK version: 30 or later
+- Recommended Editors: Visual Studio Code/ Android Studio/ or Xcode for iOS
 
 
 ### Get Started with Flutter - top
